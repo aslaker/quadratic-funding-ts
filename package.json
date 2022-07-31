@@ -1,0 +1,12 @@
+{
+  "name": "quadratic-funding-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["quadratic funding", "quadratic voting", "game b", "radical markets"],
+  "author": "Adam Slaker",
+  "license": "ISC"
+}
